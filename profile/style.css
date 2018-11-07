@@ -1,0 +1,60 @@
+
+body {
+  text-align: center;
+  color : white;
+}
+
+h1 {
+  font-family: "Monserrat", sans-serif;
+  font-weight: 400
+  text-align: center;
+  color : white;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color : white;
+}
+
+p {
+  font-family: :"Open Sans";
+  font-weight: 200
+  text-align: center;
+  color : white;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  text-align: center;
+  color : white;
+}
+
+a:hover {
+  color: teal;
+  text-align: center;
+  color : white;
+
+}
+
+.container {
+  background-color :black;
+  text-align: center;
+  color : white;
+  border: white
+  border : 3px;
+  box-shadow : 3px 3px 3px 3px;
+
+
+}
+
+.card {
+  text-align: center;
+  background: black;
+  margin: 3px
+  margin-color: white;
+  padding: 30px;
+ }
+
